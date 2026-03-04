@@ -1,0 +1,6 @@
+@media (max-width: 900px) {
+  .race-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
